@@ -1,4 +1,4 @@
-# parallel-operation-of-power-plant
+# parallel operation of power plant
 solves the problems of parallel operation of power plants and draw graph incremental heat rate with load
 
 This program is used for solving the parallel operation of problems of  3 power stations
